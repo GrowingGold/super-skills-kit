@@ -1,6 +1,15 @@
 # Super-Skills Kit
 
-A ready-made setup for Claude Code that makes it noticeably better at real work.
+**Make Claude Code faster, cheaper and better at real work, with one paste.**
+
+Free setup for Claude Code on a Mac: 29 expert skill bundles, an automatic skill picker, prompt optimizer, token-saving defaults and review pages that let you approve changes before they happen. It backs up your settings first and has a one-command undo.
+
+**Before:** you type "make my site faster", Claude guesses, loads nothing special and burns tokens.
+**After:** Claude restates it as a clear task, loads the web-performance and SEO skills on its own, uses small helper models for lookups, and shows you a review page before changing anything big.
+
+To install, paste this into Claude Code:
+
+`Clone https://github.com/GrowingGold/super-skills-kit into ~/super-skills-kit, then follow its SETUP.md`
 
 ## What you get
 - **29 super-skills.** Each one bundles many specialist skills for an area: marketing, web design, React, databases, debugging, mobile apps, research, planning and more.
@@ -30,5 +39,7 @@ In `~/super-skills-kit` run `git pull`, then `python3 install.py --apply`.
 
 ## Credits
 Made by Ben.
+
+The kit's own files are MIT licensed ([LICENSE](LICENSE)). The third-party skills are not included in this repo; the installer downloads them from their authors, and each keeps its own license.
 
 The skills inside the super-skills come from many open projects, downloaded from their authors at install time. See [CREDITS.md](CREDITS.md).
