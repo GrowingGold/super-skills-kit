@@ -2,7 +2,9 @@
 
 **Make Claude Code faster, cheaper and better at real work, with one paste.**
 
-Free setup for Claude Code on a Mac: 29 expert skill bundles, an automatic skill picker, prompt optimizer, token-saving defaults and review pages that let you approve changes before they happen. It backs up your settings first and has a one-command undo.
+Free setup for Claude Code on a Mac: 300+ of the best open-source skills merged into 29 expert super-skills, an automatic skill picker, prompt optimizer, token-saving defaults and review pages that let you approve changes before they happen. It backs up your settings first and has a one-command undo.
+
+Instead of juggling 300+ separate skills (each one costing tokens just by being installed), you get 29 super-skills that each merge a whole area, and only the right one loads when you need it. The installer downloads every skill from its original author, who is credited in [CREDITS.md](CREDITS.md).
 
 **Before:** you type "make my site faster", Claude guesses, loads nothing special and burns tokens.
 **After:** Claude restates it as a clear task, loads the web-performance and SEO skills on its own, uses small helper models for lookups, and shows you a review page before changing anything big.
