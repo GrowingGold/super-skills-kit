@@ -29,4 +29,6 @@ In `~/super-skills-kit` run `python3 install.py --undo`, then restart Claude Cod
 In `~/super-skills-kit` run `git pull`, then `python3 install.py --apply`.
 
 ## Credits
+Made by Ben.
+
 The skills inside the super-skills come from many open projects, downloaded from their authors at install time. See [CREDITS.md](CREDITS.md).
