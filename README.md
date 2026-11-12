@@ -10,7 +10,7 @@ A ready-made setup for Claude Code that makes it noticeably better at real work.
 - **Visual approval pages.** For bigger changes, Claude shows a review page with before and after, and you pick what goes ahead.
 
 ## Start in 3 steps
-1. Accept the GitHub invite and make sure you are signed in to GitHub.
+1. Install Claude Code on a Mac (no GitHub account needed; the repo is public).
 2. Open Claude Code and paste:
    `Clone https://github.com/GrowingGold/super-skills-kit into ~/super-skills-kit, then follow its SETUP.md`
 3. When Claude is done, close Claude Code and open it again.
